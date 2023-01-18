@@ -1,0 +1,9 @@
+ltk\sabianfanni\store\domain\SlimStoreRegister.class
+ltk\sabianfanni\store\services\StoreItemInMemory.class
+ltk\sabianfanni\store\interfaces\Application.class
+ltk\sabianfanni\store\StoreRegisterSystem.class
+ltk\sabianfanni\store\services\StoreItemInFile.class
+ltk\sabianfanni\store\domain\StorePersistenceType.class
+ltk\sabianfanni\store\exceptions\ItemNotAvailableException.class
+ltk\sabianfanni\store\domain\StoreItem.class
+ltk\sabianfanni\store\interfaces\Persistence.class

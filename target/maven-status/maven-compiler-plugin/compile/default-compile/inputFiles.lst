@@ -1,0 +1,9 @@
+C:\Users\fanni\OneDrive\Asztali gép\storage\src\main\java\ltk\sabianfanni\store\StoreRegisterSystem.java
+C:\Users\fanni\OneDrive\Asztali gép\storage\src\main\java\ltk\sabianfanni\store\exceptions\ItemNotAvailableException.java
+C:\Users\fanni\OneDrive\Asztali gép\storage\src\main\java\ltk\sabianfanni\store\domain\StoreItem.java
+C:\Users\fanni\OneDrive\Asztali gép\storage\src\main\java\ltk\sabianfanni\store\interfaces\Application.java
+C:\Users\fanni\OneDrive\Asztali gép\storage\src\main\java\ltk\sabianfanni\store\services\StoreItemInFile.java
+C:\Users\fanni\OneDrive\Asztali gép\storage\src\main\java\ltk\sabianfanni\store\domain\StorePersistenceType.java
+C:\Users\fanni\OneDrive\Asztali gép\storage\src\main\java\ltk\sabianfanni\store\services\StoreItemInMemory.java
+C:\Users\fanni\OneDrive\Asztali gép\storage\src\main\java\ltk\sabianfanni\store\domain\SlimStoreRegister.java
+C:\Users\fanni\OneDrive\Asztali gép\storage\src\main\java\ltk\sabianfanni\store\interfaces\Persistence.java
